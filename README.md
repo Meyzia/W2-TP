@@ -8,9 +8,9 @@ Project mengenai comment dan javadoc
 Project untuk mencari inputan numerik dapat dimasukkan ke dalam tipe data apa saja dengan mengukur ukurannya
 
 ## 3. Variables
-  ### * Constants
+  + ### Constants
     Penggunaan konstanta dengan menggunakan final
-  ### * Constants2
+  + ### Constants2
     Penggunaan konstanta dengan menggunakan public static final
 
 ## FloatingPoint
